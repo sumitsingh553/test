@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Hello world!
+extra line for stash changes.
+>>>>>>> 19b256568a4bed34c0f3da089f48ef0e3b259d6c
